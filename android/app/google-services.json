@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171483934291",
+    "firebase_url": "https://vinhos-edecio.firebaseio.com",
+    "project_id": "vinhos-edecio",
+    "storage_bucket": "vinhos-edecio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171483934291:android:89d5c2dd6e16e63d2360a6",
+        "android_client_info": {
+          "package_name": "com.example.vinhos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171483934291-23r12ftlgvbrrn7ntnmkvqbimboig3ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWq1ayumjeF3SoVSoxpLuWfko-JV-ClIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171483934291-23r12ftlgvbrrn7ntnmkvqbimboig3ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
